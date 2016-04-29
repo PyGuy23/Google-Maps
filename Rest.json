@@ -1,0 +1,13 @@
+{
+	
+	"waiting-time" :[
+	{"traffic-delayed": 20, "normal-hours": 10},
+	{"driver-requested-directions": 30, "unknown": 15}
+
+	"timeremaing":[
+	{"left an hour ago": 15, "driver-arriving": "arrived at detination"}
+	]}
+
+	"geolocation":[
+	{"Portsmouth VA": 78.9090, -38.47679}]
+]}

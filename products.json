@@ -1,0 +1,18 @@
+{
+	"iMac": {
+		"year": "2009",
+		"price": "$300",
+		"website": "shinycomputers.com"
+	},
+	
+	"iBook":{
+		"year": "2003",
+		"price": "$80",
+		"website": "shinycomputers.com"
+	}
+	"MacBook":{
+		"year":"2013",
+		"price": "$1120",
+		"available": "YES"
+	}
+}

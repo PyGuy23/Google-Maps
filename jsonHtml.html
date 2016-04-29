@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head><title>Timothy Hosey's JSON Tutorial</title>
+	<script>
+	$("#button").click( function (){
+$.getJSON("products.json", function(obj){
+
+$.each(obj, function(key, value){
+	
+	$("#ul").append("<li>"+value.year+"</li>");
+	
+});
+	
+});
+
+});
+	</script>
+</head>
+<body>
+
+
+
+<ul>
+
+</ul>
+<button>get products</button>
+
+
+</form>
+
+
+
+<script src="script/jquery-1.11.3.min.js" type="text/javascript"></script>
+<script src="script/jsonScript.js" type="text/javascript"></script>
+
+</body>
+</html>
